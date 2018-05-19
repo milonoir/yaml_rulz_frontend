@@ -1,0 +1,12 @@
+.textinput{
+    font-family: monospace;
+}
+
+.issue-list {
+    margin-top: 15px;
+}
+
+.footer {
+    border-top: 1px solid #eee;
+    padding-top: 15px;
+}
